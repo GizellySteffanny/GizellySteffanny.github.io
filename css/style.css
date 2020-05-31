@@ -4,6 +4,7 @@ body {
    justify-content: center;
    height: 100vh;
    background-color: #fab217;
+   margin: 0;
 }
 
 img {
