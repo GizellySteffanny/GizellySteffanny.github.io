@@ -1,0 +1,20 @@
+body {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 100vh;
+   background-color: #fab217;
+}
+
+img {
+   max-width: 100%;
+   width: 500px;
+   height: 500px;
+}
+
+@media(max-width: 600px) {
+   img {
+      width: 200px;
+      height: 200px;
+   }
+}
